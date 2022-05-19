@@ -1,4 +1,4 @@
-package com.bsg5.chapter2;
+package com.bsg5.chapter3.model.chapter2;
 
 import org.springframework.stereotype.Service;
 

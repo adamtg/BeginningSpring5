@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="helloGreeter" class="com.bsg5.chapter2.HelloWorldGreeter">
+    <bean id="helloGreeter" class="com.bsg5.chapter3.model.chapter2.HelloWorldGreeter">
         <property name="printStream" ref="printStream" />
     </bean>
 
